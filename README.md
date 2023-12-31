@@ -1,1 +1,1 @@
-# Churn_modelling_ANN
+# Churn Modelling using "Artifical Neural Networks"
